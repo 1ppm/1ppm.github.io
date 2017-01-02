@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>1PPM</title>
+  <subtitle>Join the 1PPM club</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://1ppm.club/"/>
+  <updated>2017-01-02T10:06:44.076Z</updated>
+  <id>http://1ppm.club/</id>
+  
+  <author>
+    <name>Gerhard Görlich</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to the 1PPM Club</title>
+    <link href="http://1ppm.club/2017/01/02/Welcome-to-the-1PPM-Club/"/>
+    <id>http://1ppm.club/2017/01/02/Welcome-to-the-1PPM-Club/</id>
+    <published>2017-01-02T09:50:27.000Z</published>
+    <updated>2017-01-02T10:06:44.076Z</updated>
+    
+    <content type="html"><![CDATA[<p>The “One Project Per Month” (1PPM) club is a community for hackers, makers, writers, builders and entrepreneurs. It’s about sharing projects and tips for building MVPs, rapid prototyping, creativity, motivation, growth hacking etc.<br><a id="more"></a></p>
+<h2 id="Rules-of-the-1PPM-Club"><a href="#Rules-of-the-1PPM-Club" class="headerlink" title="Rules of the 1PPM Club:"></a>Rules of the 1PPM Club:</h2><ol>
+<li>Talk about the 1PPM Club ;)</li>
+<li>Enter the <a href="https://github.com/1ppm/1ppmLog/blob/master/HallOfFame.md" target="_blank" rel="external">Hall of Fame</a>*</li>
+<li>Release one project each month</li>
+<li>Share your work and insights</li>
+</ol>
+<p>For more information on how to join, please visit <a href="https://github.com/1ppm/1ppmLog" target="_blank" rel="external">1ppm on GitHub</a></p>
+<h2 id="The-1PPM-Challenge"><a href="#The-1PPM-Challenge" class="headerlink" title="The 1PPM Challenge"></a>The 1PPM Challenge</h2><p>More information about the 1PPM challenge can be found in these articles: <a href="https://medium.com/@gerji/the-1ppm-challenge-eaed5df0ef5a#.hmlk9qzdo" target="_blank" rel="external">The 1ppm challenge</a> and <a href="https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.6fmnta199" target="_blank" rel="external">12 Months / 12 Side Projects — Are you in?</a></p>
+<h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><p>Reach out to 1ppm on <a href="https://twitter.com/1ppmclub" target="_blank" rel="external">twitter</a> or via email <a href="1ppm@1ppm.club">1ppm@1ppm.club</a></p>
+<hr>
+<p>* <em>a more user friendly alternative to sign up is in development</em></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The “One Project Per Month” (1PPM) club is a community for hackers, makers, writers, builders and entrepreneurs. It’s about sharing projects and tips for building MVPs, rapid prototyping, creativity, motivation, growth hacking etc.&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Rules-of-the-1PPM-Club&quot;&gt;&lt;a href=&quot;#Rules-of-the-1PPM-Club&quot; class=&quot;headerlink&quot; title=&quot;Rules of the 1PPM Club:&quot;&gt;&lt;/a&gt;Rules of the 1PPM Club:&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Talk about the 1PPM Club ;)&lt;/li&gt;
+&lt;li&gt;Enter the &lt;a href=&quot;https://github.com/1ppm/1ppmLog/blob/master/HallOfFame.md&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hall of Fame&lt;/a&gt;*&lt;/li&gt;
+&lt;li&gt;Release one project each month&lt;/li&gt;
+&lt;li&gt;Share your work and insights&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For more information on how to join, please visit &lt;a href=&quot;https://github.com/1ppm/1ppmLog&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;1ppm on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;The-1PPM-Challenge&quot;&gt;&lt;a href=&quot;#The-1PPM-Challenge&quot; class=&quot;headerlink&quot; title=&quot;The 1PPM Challenge&quot;&gt;&lt;/a&gt;The 1PPM Challenge&lt;/h2&gt;&lt;p&gt;More information about the 1PPM challenge can be found in these articles: &lt;a href=&quot;https://medium.com/@gerji/the-1ppm-challenge-eaed5df0ef5a#.hmlk9qzdo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The 1ppm challenge&lt;/a&gt; and &lt;a href=&quot;https://medium.com/@gerji/12-months-12-side-projects-are-you-in-c395dbcd648e#.6fmnta199&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;12 Months / 12 Side Projects — Are you in?&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Contact&quot;&gt;&lt;a href=&quot;#Contact&quot; class=&quot;headerlink&quot; title=&quot;Contact&quot;&gt;&lt;/a&gt;Contact&lt;/h2&gt;&lt;p&gt;Reach out to 1ppm on &lt;a href=&quot;https://twitter.com/1ppmclub&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;twitter&lt;/a&gt; or via email &lt;a href=&quot;1ppm@1ppm.club&quot;&gt;1ppm@1ppm.club&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;* &lt;em&gt;a more user friendly alternative to sign up is in development&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="about" scheme="http://1ppm.club/tags/about/"/>
+    
+  </entry>
+  
+</feed>
